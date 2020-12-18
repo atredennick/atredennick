@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a biometrician at Western EcoSystems Technology, Inc., using traditional statistics and contemporary machine learning approaches to find win-wins for wildlife and renewable energy.
+
 <!--
 **atredennick/atredennick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
